@@ -1,0 +1,7 @@
+F:\c-sharp\tentti\tentti\tentti\bin\Debug\tentti.exe.config
+F:\c-sharp\tentti\tentti\tentti\bin\Debug\tentti.exe
+F:\c-sharp\tentti\tentti\tentti\bin\Debug\tentti.pdb
+F:\c-sharp\tentti\tentti\tentti\obj\Debug\tentti.csproj.AssemblyReference.cache
+F:\c-sharp\tentti\tentti\tentti\obj\Debug\tentti.csproj.CoreCompileInputs.cache
+F:\c-sharp\tentti\tentti\tentti\obj\Debug\tentti.exe
+F:\c-sharp\tentti\tentti\tentti\obj\Debug\tentti.pdb

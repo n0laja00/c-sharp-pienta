@@ -1,0 +1,7 @@
+F:\c-sharp\Janne_lammela_KT1\Janne_lammela_KT1\obj\Debug\Janne_lammela_KT1.csproj.AssemblyReference.cache
+F:\c-sharp\Janne_lammela_KT1\Janne_lammela_KT1\obj\Debug\Janne_lammela_KT1.csproj.CoreCompileInputs.cache
+F:\c-sharp\Janne_lammela_KT1\Janne_lammela_KT1\bin\Debug\Janne_lammela_KT1.exe.config
+F:\c-sharp\Janne_lammela_KT1\Janne_lammela_KT1\bin\Debug\Janne_lammela_KT1.exe
+F:\c-sharp\Janne_lammela_KT1\Janne_lammela_KT1\bin\Debug\Janne_lammela_KT1.pdb
+F:\c-sharp\Janne_lammela_KT1\Janne_lammela_KT1\obj\Debug\Janne_lammela_KT1.exe
+F:\c-sharp\Janne_lammela_KT1\Janne_lammela_KT1\obj\Debug\Janne_lammela_KT1.pdb

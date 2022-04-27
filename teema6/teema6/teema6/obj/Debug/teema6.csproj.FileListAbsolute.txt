@@ -1,0 +1,7 @@
+F:\c-sharp\teema6\teema6\teema6\bin\Debug\teema6.exe.config
+F:\c-sharp\teema6\teema6\teema6\bin\Debug\teema6.exe
+F:\c-sharp\teema6\teema6\teema6\bin\Debug\teema6.pdb
+F:\c-sharp\teema6\teema6\teema6\obj\Debug\teema6.csproj.AssemblyReference.cache
+F:\c-sharp\teema6\teema6\teema6\obj\Debug\teema6.csproj.CoreCompileInputs.cache
+F:\c-sharp\teema6\teema6\teema6\obj\Debug\teema6.exe
+F:\c-sharp\teema6\teema6\teema6\obj\Debug\teema6.pdb
